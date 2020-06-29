@@ -1,0 +1,6 @@
+br/com/ifms/iffood/model/AbstractEntity.class
+br/com/ifms/iffood/model/Produto.class
+br/com/ifms/iffood/service/AbstractPersistence.class
+br/com/ifms/iffood/controller/ProdutoBean.class
+br/com/ifms/iffood/app/Inicio.class
+br/com/ifms/iffood/dao/ProdutoDao.class
